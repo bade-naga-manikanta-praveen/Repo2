@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6647-209A
+
+ Directory of C:\Users\HI\Desktop\project
+
+04-07-2022  21:54    <DIR>          .
+04-07-2022  21:50    <DIR>          ..
+04-07-2022  21:54                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  65,013,370,880 bytes free
+changed
